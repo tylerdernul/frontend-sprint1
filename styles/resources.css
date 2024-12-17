@@ -1,0 +1,22 @@
+.resources__title {
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+.resources__subtitle {
+  margin-bottom: 80px;
+}
+
+.resources__logo-zone {
+  width: 1100px;
+  margin-inline: auto;
+  margin-bottom: 217px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.resources__logo {
+  width: 270px;
+  height: 38px;
+}

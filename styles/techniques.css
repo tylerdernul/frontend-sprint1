@@ -1,0 +1,56 @@
+.techniques {
+  width: 80%;
+  margin-inline: auto;
+}
+
+.techniques__title {
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+.techniques__subtitle {
+  margin-bottom: 60px;
+}
+
+.cards {
+  width: 920px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  align-items: start;
+  margin-inline: auto;
+  column-gap: 100px;
+  row-gap: 60px;
+}
+
+.cards__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 240px;
+}
+
+.cards__img {
+  margin-top: 0;
+  margin-inline: 40px;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+}
+
+.cards__title {
+  margin-top: 34px;
+  text-align: center;
+  font-size: 24px;
+  line-height: 1.15;
+  font-weight: 600;
+}
+
+.cards__description {
+  margin-top: 16px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 23px;
+  font-weight: normal;
+}

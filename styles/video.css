@@ -1,0 +1,23 @@
+.video {
+  margin-top: 100px;
+  height: 420px;
+}
+
+.video__subtitle {
+  margin-bottom: 50px;
+}
+
+.video__iframes {
+  position: absolute;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20px;
+}
+
+.video__iframe {
+  width: 516px;
+  height: 316px;
+}
